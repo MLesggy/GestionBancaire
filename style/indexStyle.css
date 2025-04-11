@@ -1,0 +1,25 @@
+h2{
+    text-align: center;
+    padding: 3vh;
+}
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5vh;
+}
+.boxConnect{
+    border: solid 2px black;
+    width: 55vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 5vh;
+    border-radius: 2%;
+    box-shadow: -1px -1px 8px 2px rgba(0,0,0,0.36);
+}
+button{
+    color: white; 
+    background-color: black;
+}

@@ -1,0 +1,25 @@
+a, 
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none !important;
+    color: inherit;
+}
+.enTete{
+    background-color: grey;
+}
+h1{
+    color:black;
+}
+.deco{
+    color: white;
+    align-self: center;
+}
+.deco :hover{
+   font-style: italic;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

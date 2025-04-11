@@ -1,0 +1,32 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.containerC {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(113, 104, 104);
+    font-size: 15px;
+    align-self: center;
+    cursor: pointer;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
